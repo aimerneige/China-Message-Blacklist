@@ -1,6 +1,6 @@
 # China-Message-Blacklist
 
-ChiNaMessageBlacklist --> CNMB
+**C**hi**N**a**M**essage**B**lacklist --> CNMB
 
 中国地区骚扰短信黑名单
 
